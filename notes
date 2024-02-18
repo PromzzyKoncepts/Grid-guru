@@ -1,0 +1,10 @@
+inline - 	Displays an element as an inline element (like <span>). Any height and width properties will have no effect. This is default.	
+block - 	Displays an element as a block element (like <p>). It starts on a new line, and takes up the whole width	
+contents - 	Makes the container disappear, making the child elements children of the element the next level up in the DOM	
+flex -  	Displays an element as a block-level flex container	
+grid - 	Displays an element as a block-level grid container	
+inline-block	Displays an element as an inline-level block container. The element itself is formatted as an inline element, but you can apply height and width values	
+inline-flex	Displays an element as an inline-level flex container	
+inline-grid	Displays an element as an inline-level grid container	
+inline-table	The element is displayed as an inline-level table	
+list-item	Let the element behave like a <li> element
