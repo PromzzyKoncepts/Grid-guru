@@ -1,0 +1,31 @@
+/* Universal selector */
+
+* {
+   padding: 0; 
+   margin: 0;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   box-sizing: border-box;
+}
+
+/* pesudo-selec tors */
+
+p:first-child {
+    background-color: aquamarine;
+}
+
+main p:last-child {
+    background-color: brown;
+
+}
+
+/* Grouping selectors */
+
+h1 {
+    background-color: purple;
+    color: white;
+    padding: 20px;
+    border: 10px solid rgba(0, 128, 0, 0.188);
+    margin: 50px 100px;
+
+}
+
